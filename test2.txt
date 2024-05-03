@@ -1,1 +1,1 @@
-This is new test conflict
+this is resolve conflict
